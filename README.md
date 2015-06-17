@@ -1,4 +1,4 @@
-# Helios-Tracker
+# ![logo](http://i.imgur.com/az9OJsB.png)
 
 Welcome to Issue Tracker for Helios Empire.
 
