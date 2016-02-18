@@ -8,8 +8,8 @@ How it should work?:
 
 Operating System:
 
-== Please first search before making a new issue on our tracker.
+## == Please first search before making a new issue on our tracker.
 
-== Please fill in above template to submit a new issue.
+## == Please fill in above template to submit a new issue.
 
-== Use helios database links > http://db.helios-empire.eu to quests/npcs/spells etc.
+## == Use helios database links > http://db.helios-empire.eu to quests/npcs/spells etc.
